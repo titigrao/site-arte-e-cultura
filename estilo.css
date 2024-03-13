@@ -1,0 +1,10 @@
+:root{
+    --cabecalho-color:  #7B0000;
+    --fundo-color; 
+}
+
+
+
+.cabecalho{
+    color: --cabecalho-color;
+}
