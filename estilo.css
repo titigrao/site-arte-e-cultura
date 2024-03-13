@@ -4,9 +4,9 @@
 }
 
 .cabecalho{
-    color: var(--cabecalho-color);
+    background-color: var(--cabecalho-color);
 }
 
 body{
-    color: var(--fundo-color);
+    background-color: var(--fundo-color);
 }
