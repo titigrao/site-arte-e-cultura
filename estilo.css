@@ -16,6 +16,10 @@
     padding: 0px 100px;
 }
 
+.cabecalho-texto-1{
+    margin: 10px 0px;
+}
+
 body{
     background-color: var(--fundo-color);
 }
