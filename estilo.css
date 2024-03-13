@@ -1,10 +1,15 @@
 :root{
-    --cabecalho-color:  #7B0000;
+    --cabecalho-color:  #9B0B0B;
     --fundo-color: #D5BA98;
+    --texto-color: #FFFFFF;
 }
 
 .cabecalho{
     background-color: var(--cabecalho-color);
+}
+
+.cabecalho-texto{
+    color: var(--texto-color);
 }
 
 body{
