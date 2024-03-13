@@ -9,8 +9,10 @@
     padding: 50px 0px;
 }
 
-.cabecalho-texto{
+.cabecalho-textos{
     color: var(--texto-color);
+    display: flex;
+    justify-content: center;
 }
 
 body{
