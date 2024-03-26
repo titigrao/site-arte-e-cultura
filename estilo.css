@@ -5,10 +5,7 @@
 }
 
 .cabecalho{
-    background-color: #977171;
-    color: white;
-    display: flex;
-    justify-content: space-around;
+    color: var(--texto-color);
     padding: 24px 0;
     font-size: 34px;
     font-family: 'Schibsted Grotesk', sans-serif;
