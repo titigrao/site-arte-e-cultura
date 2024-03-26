@@ -31,7 +31,8 @@ body{
 .arte-e-cultura{
     color: var(--texto-color);
     font-size: 30px;
-    padding: 60px 60px;
+    margin: 60px 60px;
+    padding: 30px 0px;
     display: flex;
     font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
