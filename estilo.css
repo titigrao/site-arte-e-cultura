@@ -7,7 +7,7 @@
 .cabecalho{
     background-color: var(--cabecalho-color);
     color: var(--texto-color);
-    padding: 24px 24px;
+    padding: 24px 100px;
     font-size: 34px;
     font-family: 'Schibsted Grotesk', sans-serif;
 }
