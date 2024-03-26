@@ -42,3 +42,14 @@ body{
 .texto-a-e-c{
     size: 120%;
 }
+
+.arte-e-cultura-ccm{
+    color: var(--texto-color);
+    font-size: 30px;
+    padding: 60px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+}
