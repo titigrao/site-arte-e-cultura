@@ -26,7 +26,7 @@
 
 body{
     background-color: var(--fundo-color);
-    font-size: 120%;
+    font-size: 130%;
 }
 
 .arte-e-cultura{
@@ -41,7 +41,6 @@ body{
 }
 
 .texto-a-e-c{
-    size: 120%;
 }
 
 .arte-e-cultura-ccm{
