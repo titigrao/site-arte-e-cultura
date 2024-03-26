@@ -43,6 +43,10 @@ body{
 .texto-a-e-c{
 }
 
+.imagem-a-e-c{
+    background-color: var(--cabecalho-color);
+}
+
 .arte-e-cultura-ccm{
     color: var(--texto-color);
     font-size: 30px;
@@ -57,4 +61,5 @@ body{
 .imagem-a-c-cm{
     width: 30%;
     size: 30%;
+    background-color: var(--cabecalho-color);
 }
