@@ -99,6 +99,5 @@ body{
     width: 20%;
     size: 30%;
     background-color: var(--cabecalho-color);
-    display: flex;
-    text-align: center;
+    justify-content: center;
 }
