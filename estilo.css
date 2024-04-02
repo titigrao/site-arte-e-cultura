@@ -97,7 +97,7 @@ body{
 
 .img-guidos{
     width: 20%;
-    size: 30%;
     background-color: var(--cabecalho-color);
+    display: flex;
     justify-content: center;
 }
