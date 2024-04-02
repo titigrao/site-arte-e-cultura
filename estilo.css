@@ -66,6 +66,17 @@ body{
     padding: 10px 10px;
 }
 
+.prof-marines{
+    color: var(--texto-color);
+    font-size: 30px;
+    padding: 60px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+}
+
 .arte-marines{
     width: 30%;
     size: 30%;
