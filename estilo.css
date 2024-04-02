@@ -95,7 +95,7 @@ body{
     font-optical-sizing: auto;
 }
 
-.img-guidos{
+.div-guido{
     background-color: var(--cabecalho-color);
     display: flex;
     justify-content: center;
@@ -104,5 +104,4 @@ body{
 
 .imagem-guido{
     width: 30%;
-    padding:;
 }
