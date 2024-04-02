@@ -96,12 +96,20 @@ body{
 }
 
 .div-guido{
-    background-color: var(--cabecalho-color);
     display: flex;
     justify-content: center;
     padding: 30px 30px;
 }
 
-.imagem-guido{
+.imagem-guido-1{
     width: 30%;
+    background-color: var(--cabecalho-color);
+    padding 20px 20px
 }
+
+.imagem-guido-2{
+    width: 30%;
+    background-color: var(--cabecalho-color);
+    padding: 20px 20px;
+}
+
