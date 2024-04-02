@@ -104,12 +104,12 @@ body{
 .imagem-guido-1{
     width: 30%;
     background-color: var(--cabecalho-color);
-    padding: 110px 110px;
+    padding: 20px 20px;
 }
 
 .imagem-guido-2{
     width: 30%;
     background-color: var(--cabecalho-color);
-    padding: 1100px 110px;
+    padding: 20px 20px;
 }
 
