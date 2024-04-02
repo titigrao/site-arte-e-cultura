@@ -95,9 +95,23 @@ body{
     font-optical-sizing: auto;
 }
 
-.imagem-guido{
+.imagem-guido-1{
     width: 20%;
     size: 30%;
     background-color: var(--cabecalho-color);
-    padding: 10px 10px;
+    padding: 30px 30px;
+}
+
+.imagem-guido-3{
+    width: 20%;
+    size: 30%;
+    background-color: var(--cabecalho-color);
+    padding: 30px 30px;
+}
+
+.imagem-guido-3{
+    width: 20%;
+    size: 30%;
+    background-color: var(--cabecalho-color);
+    padding: 30px 30px;
 }
