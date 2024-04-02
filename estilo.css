@@ -96,8 +96,8 @@ body{
 }
 
 .imagem-guido{
-    width: 40%;
+    width: 20%;
     size: 30%;
     background-color: var(--cabecalho-color);
-    padding: 10px 10px;
+    padding: 35px 35px;
 }
