@@ -65,3 +65,10 @@ body{
     background-color: var(--cabecalho-color);
     padding: 10px 10px;
 }
+
+.arte-marines{
+    width: 30%;
+    size: 30%;
+    background-color: var(--cabecalho-color);
+    padding: 10px 10px;
+}
