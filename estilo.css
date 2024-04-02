@@ -96,8 +96,11 @@ body{
 }
 
 .img-guidos{
-    width: 20%;
     background-color: var(--cabecalho-color);
     display: flex;
     justify-content: center;
+}
+
+.imagem-guido{
+    width: 20%;
 }
