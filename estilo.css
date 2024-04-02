@@ -95,9 +95,9 @@ body{
     font-optical-sizing: auto;
 }
 
-.imagem-guido{
+.imgs-guido{
     width: 20%;
     size: 30%;
     background-color: var(--cabecalho-color);
-    padding: 30px 30px;
+    text-align: center;
 }
