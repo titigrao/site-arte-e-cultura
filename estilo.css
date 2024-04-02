@@ -83,3 +83,21 @@ body{
     background-color: var(--cabecalho-color);
     padding: 10px 10px;
 }
+
+.guido-viaro{
+    color: var(--texto-color);
+    font-size: 30px;
+    padding: 60px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+}
+
+.imagem-guido{
+    width: 30%;
+    size: 30%;
+    background-color: var(--cabecalho-color);
+    padding: 10px 10px;
+}
