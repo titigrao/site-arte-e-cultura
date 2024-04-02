@@ -99,8 +99,10 @@ body{
     background-color: var(--cabecalho-color);
     display: flex;
     justify-content: center;
+    padding: 30px 30px;
 }
 
 .imagem-guido{
-    width: 20%;
+    width: 30%;
+    padding:;
 }
